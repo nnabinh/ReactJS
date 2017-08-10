@@ -4,7 +4,7 @@
     "description": "First react with babel",
     "main": "index.js",
     "scripts": {
-        "start": "webpack-dev-server --hot"
+        "start": "webpack-dev-server --content-base app/"
     },
     "repository": {
         "type": "git",
